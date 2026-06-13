@@ -65,7 +65,7 @@ window.CV = {
     email: "ormiaam@gmail.com",
     phone: "+46 70 402 08 26",
     phoneHref: "+46704020826",
-    linkedin: { label: "Ormia · LinkedIn", href: "https://www.linkedin.com/in/ormia-abdullah" }
+    linkedin: { label: "Ormia · LinkedIn", href: "https://www.linkedin.com/in/ormia/" }
   },
 
   experience: [
